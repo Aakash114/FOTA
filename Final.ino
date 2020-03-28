@@ -5,8 +5,8 @@
 #include <Update.h>
 
 const char* host = "esp32";
-const char* ssid = "VM8573F8F";
-const char* password = "Mdb7vpcbejst";
+const char* ssid = "YOURSSID";
+const char* password = "PASSWORD";
 
 WebServer server(80);
 
@@ -43,7 +43,7 @@ String serverIndex =
 "<br><br>"
 "<div id='prg'></div>"
 "<br><div id='prgbar'><div id='bar'></div></div><br><br><div>Click on the Download button and update your code in the given tempalate. Create .bin file of your sketch and upload the same. </div>"
-"<input type=submit onclick=window.open(\"http://www.abcdef.com/file/to/download.csv\") class=btn value=Download>"
+"<input type=submit onclick=window.open(\"https://github.com/Aakash114/FOTA\") class=btn value=Download>"
 "<br></form>"
 "<script>"
 "function sub(obj){"
