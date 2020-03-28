@@ -16,7 +16,7 @@ String style =
 "#file-input{padding:0;border:1px solid #ddd;line-height:44px;text-align:left;display:block;cursor:pointer}"
 "#bar,#prgbar{background-color:#f1f1f1;border-radius:10px}#bar{background-color:#3498db;width:0%;height:10px}"
 "form{background:#fff;max-width:258px;margin:75px auto;padding:30px;border-radius:5px;text-align:center}"
-".btn{background:#090e02;color:#fff;cursor:pointer}"
+".btn1{background:#090e02;color:#fff;cursor:pointer}"
 ".btn{background:#3498db;color:#fff;cursor:pointer}</style>";
 
 String loginIndex = 
